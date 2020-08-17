@@ -6,7 +6,7 @@ Modelo de negócios, irá identificar quem é o seu cliente, qual o problema ele
 <strong>
 ![](img/alexsander.jpeg)<br>
 Alexsander<br><br>
-![](img/yves.jpeg)<br>
+![](./img/yves.jpeg)<br>
 Ivis</strong>
 #### O que é o Canvas?
   canvas é um mapa formado por 9 blocos vão converter as descrições das principais
